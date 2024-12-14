@@ -8,7 +8,7 @@
 Olá, meu nome é Leonardo Braga. E esse é o desafio para o bootcamp da RiHappy + DIO, para Front-End.
 
 ## 📄  Objetivo
-Construir um Portfólio Front-end do Zero.
+Construir um Portfólio Front-end do Zero, com base no curso da dio no bootcamp RiHappy + DIO.
 
 ## 💻 Tecnologias
 
